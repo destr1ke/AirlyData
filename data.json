@@ -1,0 +1,917 @@
+{
+    "data": [
+        {
+            "id": [
+                {
+                    "name": "PM1",
+                    "value": 7.48
+                },
+                {
+                    "name": "PM25",
+                    "value": 11.39
+                },
+                {
+                    "name": "PM10",
+                    "value": 16.13
+                },
+                {
+                    "name": "PRESSURE",
+                    "value": 1019.61
+                },
+                {
+                    "name": "HUMIDITY",
+                    "value": 90.29
+                },
+                {
+                    "name": "TEMPERATURE",
+                    "value": -1.65
+                },
+                {
+                    "name": "NO2",
+                    "value": 93.23
+                },
+                {
+                    "name": "O3",
+                    "value": 0
+                }
+            ],
+            "cvs": 12,
+            "vsr": 3.2
+        },
+        {
+            "id": [
+                {
+                    "name": "PM1",
+                    "value": 8.23
+                },
+                {
+                    "name": "PM25",
+                    "value": 13.51
+                },
+                {
+                    "name": "PM10",
+                    "value": 20.11
+                },
+                {
+                    "name": "PRESSURE",
+                    "value": 1017.89
+                },
+                {
+                    "name": "HUMIDITY",
+                    "value": 97.53
+                },
+                {
+                    "name": "TEMPERATURE",
+                    "value": -1.13
+                }
+            ],
+            "cvs": 3,
+            "vsr": 3.2
+        },
+        {
+            "id": [
+                {
+                    "name": "PM1",
+                    "value": 18.68
+                },
+                {
+                    "name": "PM25",
+                    "value": 29.19
+                },
+                {
+                    "name": "PM10",
+                    "value": 40.36
+                },
+                {
+                    "name": "PRESSURE",
+                    "value": 1018.73
+                },
+                {
+                    "name": "HUMIDITY",
+                    "value": 69.25
+                },
+                {
+                    "name": "TEMPERATURE",
+                    "value": 0.48
+                }
+            ],
+            "cvs": 6,
+            "vsr": 3.4299999999999997
+        },
+        {
+            "id": [
+                {
+                    "name": "PM1",
+                    "value": 10.18
+                },
+                {
+                    "name": "PM25",
+                    "value": 17.15
+                },
+                {
+                    "name": "PM10",
+                    "value": 26.49
+                },
+                {
+                    "name": "PRESSURE",
+                    "value": 1018.26
+                },
+                {
+                    "name": "HUMIDITY",
+                    "value": 80.66
+                },
+                {
+                    "name": "TEMPERATURE",
+                    "value": -2.2
+                }
+            ],
+            "cvs": 4,
+            "vsr": null
+        },
+        {
+            "id": [
+                {
+                    "name": "PM1",
+                    "value": 11.62
+                },
+                {
+                    "name": "PM25",
+                    "value": 18.58
+                },
+                {
+                    "name": "PM10",
+                    "value": 29.64
+                },
+                {
+                    "name": "PRESSURE",
+                    "value": 1018.84
+                },
+                {
+                    "name": "HUMIDITY",
+                    "value": 76.46
+                },
+                {
+                    "name": "TEMPERATURE",
+                    "value": -1.53
+                },
+                {
+                    "name": "NO2",
+                    "value": 37.72
+                },
+                {
+                    "name": "O3",
+                    "value": 31.72
+                }
+            ],
+            "cvs": 10,
+            "vsr": null
+        },
+        {
+            "id": [
+                {
+                    "name": "PM1",
+                    "value": 20.89
+                },
+                {
+                    "name": "PM25",
+                    "value": 36.57
+                },
+                {
+                    "name": "PM10",
+                    "value": 54.2
+                },
+                {
+                    "name": "PRESSURE",
+                    "value": 1019.75
+                },
+                {
+                    "name": "HUMIDITY",
+                    "value": 98.79
+                },
+                {
+                    "name": "TEMPERATURE",
+                    "value": 2.07
+                },
+                {
+                    "name": "NO2",
+                    "value": 93.02
+                },
+                {
+                    "name": "O3",
+                    "value": 0
+                }
+            ],
+            "cvs": 19,
+            "vsr": 2.5
+        },
+        {
+            "id": [
+                {
+                    "name": "PM1",
+                    "value": 15.52
+                },
+                {
+                    "name": "PM25",
+                    "value": 26.44
+                },
+                {
+                    "name": "PM10",
+                    "value": 41.79
+                },
+                {
+                    "name": "PRESSURE",
+                    "value": 1020.96
+                },
+                {
+                    "name": "HUMIDITY",
+                    "value": 98.88
+                },
+                {
+                    "name": "TEMPERATURE",
+                    "value": 1.63
+                },
+                {
+                    "name": "NO2",
+                    "value": 120.03
+                },
+                {
+                    "name": "O3",
+                    "value": 0
+                }
+            ],
+            "cvs": 19,
+            "vsr": 2.5
+        },
+        {
+            "id": [
+                {
+                    "name": "PM1",
+                    "value": 8.9
+                },
+                {
+                    "name": "PM25",
+                    "value": 15.49
+                },
+                {
+                    "name": "PM10",
+                    "value": 25.12
+                },
+                {
+                    "name": "PRESSURE",
+                    "value": 1021.19
+                },
+                {
+                    "name": "HUMIDITY",
+                    "value": 97.92
+                },
+                {
+                    "name": "TEMPERATURE",
+                    "value": 1.76
+                }
+            ],
+            "cvs": 4,
+            "vsr": 2.5
+        },
+        {
+            "id": [
+                {
+                    "name": "PM1",
+                    "value": 11.08
+                },
+                {
+                    "name": "PM25",
+                    "value": 18.68
+                },
+                {
+                    "name": "PM10",
+                    "value": 30.05
+                },
+                {
+                    "name": "PRESSURE",
+                    "value": 1020.38
+                },
+                {
+                    "name": "HUMIDITY",
+                    "value": 97.75
+                },
+                {
+                    "name": "TEMPERATURE",
+                    "value": 1.91
+                },
+                {
+                    "name": "NO2",
+                    "value": 73.74
+                },
+                {
+                    "name": "O3",
+                    "value": 30.03
+                }
+            ],
+            "cvs": 13,
+            "vsr": 2.5
+        },
+        {
+            "id": [
+                {
+                    "name": "PM1",
+                    "value": 8.47
+                },
+                {
+                    "name": "PM25",
+                    "value": 12.78
+                },
+                {
+                    "name": "PM10",
+                    "value": 19.54
+                },
+                {
+                    "name": "PRESSURE",
+                    "value": 1018.26
+                },
+                {
+                    "name": "HUMIDITY",
+                    "value": 83.22
+                },
+                {
+                    "name": "TEMPERATURE",
+                    "value": 3.32
+                },
+                {
+                    "name": "NO2",
+                    "value": 90.57
+                },
+                {
+                    "name": "O3",
+                    "value": 33.89
+                }
+            ],
+            "cvs": 14,
+            "vsr": 2.8099999999999996
+        },
+        {
+            "id": [
+                {
+                    "name": "PM1",
+                    "value": 6.5
+                },
+                {
+                    "name": "PM25",
+                    "value": 10.12
+                },
+                {
+                    "name": "PM10",
+                    "value": 14.12
+                },
+                {
+                    "name": "PRESSURE",
+                    "value": 1019.55
+                },
+                {
+                    "name": "HUMIDITY",
+                    "value": 84.6
+                },
+                {
+                    "name": "TEMPERATURE",
+                    "value": 0.26
+                }
+            ],
+            "cvs": 2,
+            "vsr": 3.2
+        },
+        {
+            "id": [
+                {
+                    "name": "PM1",
+                    "value": 7.03
+                },
+                {
+                    "name": "PM25",
+                    "value": 10.59
+                },
+                {
+                    "name": "PM10",
+                    "value": 14.81
+                },
+                {
+                    "name": "PRESSURE",
+                    "value": 1019.14
+                },
+                {
+                    "name": "HUMIDITY",
+                    "value": 82.94
+                },
+                {
+                    "name": "TEMPERATURE",
+                    "value": 3.16
+                },
+                {
+                    "name": "NO2",
+                    "value": 69.93
+                },
+                {
+                    "name": "O3",
+                    "value": 12.71
+                }
+            ],
+            "cvs": 10,
+            "vsr": 2.8099999999999996
+        },
+        {
+            "id": [
+                {
+                    "name": "PM1",
+                    "value": 7.22
+                },
+                {
+                    "name": "PM25",
+                    "value": 10.42
+                },
+                {
+                    "name": "PM10",
+                    "value": 14.12
+                },
+                {
+                    "name": "PRESSURE",
+                    "value": 1018.74
+                },
+                {
+                    "name": "HUMIDITY",
+                    "value": 85.56
+                },
+                {
+                    "name": "TEMPERATURE",
+                    "value": -0.13
+                },
+                {
+                    "name": "NO2",
+                    "value": 51.07
+                },
+                {
+                    "name": "O3",
+                    "value": 6.02
+                }
+            ],
+            "cvs": 8,
+            "vsr": 3.2
+        },
+        {
+            "id": [
+                {
+                    "name": "PM1",
+                    "value": 6.95
+                },
+                {
+                    "name": "PM25",
+                    "value": 10.36
+                },
+                {
+                    "name": "PM10",
+                    "value": 14.31
+                },
+                {
+                    "name": "PRESSURE",
+                    "value": 1018.74
+                },
+                {
+                    "name": "HUMIDITY",
+                    "value": 85.51
+                },
+                {
+                    "name": "TEMPERATURE",
+                    "value": 3
+                },
+                {
+                    "name": "NO2",
+                    "value": 23.68
+                },
+                {
+                    "name": "O3",
+                    "value": 20.32
+                }
+            ],
+            "cvs": 5,
+            "vsr": 2.8099999999999996
+        },
+        {
+            "id": [
+                {
+                    "name": "PM1",
+                    "value": 7.24
+                },
+                {
+                    "name": "PM25",
+                    "value": 10.54
+                },
+                {
+                    "name": "PM10",
+                    "value": 14.96
+                },
+                {
+                    "name": "PRESSURE",
+                    "value": 1018.84
+                },
+                {
+                    "name": "HUMIDITY",
+                    "value": 88.62
+                },
+                {
+                    "name": "TEMPERATURE",
+                    "value": 1.22
+                },
+                {
+                    "name": "NO2",
+                    "value": 31.65
+                },
+                {
+                    "name": "O3",
+                    "value": 11.8
+                }
+            ],
+            "cvs": 6,
+            "vsr": 2.8099999999999996
+        },
+        {
+            "id": [
+                {
+                    "name": "PM1",
+                    "value": 8.31
+                },
+                {
+                    "name": "PM25",
+                    "value": 13.08
+                },
+                {
+                    "name": "PM10",
+                    "value": 20.1
+                },
+                {
+                    "name": "PRESSURE",
+                    "value": 1019.24
+                },
+                {
+                    "name": "HUMIDITY",
+                    "value": 86.59
+                },
+                {
+                    "name": "TEMPERATURE",
+                    "value": 0.02
+                },
+                {
+                    "name": "NO2",
+                    "value": 70.71
+                },
+                {
+                    "name": "O3",
+                    "value": 10.99
+                }
+            ],
+            "cvs": 11,
+            "vsr": 3.2
+        },
+        {
+            "id": [
+                {
+                    "name": "PM1",
+                    "value": 9.29
+                },
+                {
+                    "name": "PM25",
+                    "value": 15.43
+                },
+                {
+                    "name": "PM10",
+                    "value": 25.92
+                },
+                {
+                    "name": "PRESSURE",
+                    "value": 1019.46
+                },
+                {
+                    "name": "HUMIDITY",
+                    "value": 87.61
+                },
+                {
+                    "name": "TEMPERATURE",
+                    "value": 0.04
+                },
+                {
+                    "name": "NO2",
+                    "value": 70.04
+                },
+                {
+                    "name": "O3",
+                    "value": 5.03
+                }
+            ],
+            "cvs": 11,
+            "vsr": 3.2
+        },
+        {
+            "id": [
+                {
+                    "name": "PM1",
+                    "value": 8.68
+                },
+                {
+                    "name": "PM25",
+                    "value": 13.04
+                },
+                {
+                    "name": "PM10",
+                    "value": 19.28
+                },
+                {
+                    "name": "PRESSURE",
+                    "value": 1019.9
+                },
+                {
+                    "name": "HUMIDITY",
+                    "value": 91.91
+                },
+                {
+                    "name": "TEMPERATURE",
+                    "value": 0.02
+                },
+                {
+                    "name": "NO2",
+                    "value": 52.73
+                },
+                {
+                    "name": "O3",
+                    "value": 6.46
+                }
+            ],
+            "cvs": 9,
+            "vsr": 2.8099999999999996
+        },
+        {
+            "id": [
+                {
+                    "name": "PM1",
+                    "value": 7.35
+                },
+                {
+                    "name": "PM25",
+                    "value": 11.35
+                },
+                {
+                    "name": "PM10",
+                    "value": 16.56
+                },
+                {
+                    "name": "PRESSURE",
+                    "value": 1018.83
+                },
+                {
+                    "name": "HUMIDITY",
+                    "value": 89.62
+                },
+                {
+                    "name": "TEMPERATURE",
+                    "value": 3.39
+                },
+                {
+                    "name": "NO2",
+                    "value": 25.17
+                },
+                {
+                    "name": "O3",
+                    "value": 93.29
+                }
+            ],
+            "cvs": 9,
+            "vsr": 2.5
+        },
+        {
+            "id": [
+                {
+                    "name": "PM1",
+                    "value": 6.42
+                },
+                {
+                    "name": "PM25",
+                    "value": 10.28
+                },
+                {
+                    "name": "PM10",
+                    "value": 14.54
+                },
+                {
+                    "name": "PRESSURE",
+                    "value": 1018.95
+                },
+                {
+                    "name": "HUMIDITY",
+                    "value": 84.23
+                },
+                {
+                    "name": "TEMPERATURE",
+                    "value": -0.07
+                },
+                {
+                    "name": "NO2",
+                    "value": 50.8
+                },
+                {
+                    "name": "O3",
+                    "value": 64.25
+                }
+            ],
+            "cvs": 10,
+            "vsr": 3.2
+        },
+        {
+            "id": [
+                {
+                    "name": "PM1",
+                    "value": 7.2
+                },
+                {
+                    "name": "PM25",
+                    "value": 11.29
+                },
+                {
+                    "name": "PM10",
+                    "value": 15.96
+                },
+                {
+                    "name": "PRESSURE",
+                    "value": 1019.46
+                },
+                {
+                    "name": "HUMIDITY",
+                    "value": 83.97
+                },
+                {
+                    "name": "TEMPERATURE",
+                    "value": 0.24
+                },
+                {
+                    "name": "NO2",
+                    "value": 63.37
+                },
+                {
+                    "name": "O3",
+                    "value": 26.54
+                }
+            ],
+            "cvs": 10,
+            "vsr": 3.2
+        },
+        {
+            "id": [
+                {
+                    "name": "PM1",
+                    "value": 7.28
+                },
+                {
+                    "name": "PM25",
+                    "value": 12.5
+                },
+                {
+                    "name": "PM10",
+                    "value": 17.98
+                },
+                {
+                    "name": "PRESSURE",
+                    "value": 1019.14
+                },
+                {
+                    "name": "HUMIDITY",
+                    "value": 84.06
+                },
+                {
+                    "name": "TEMPERATURE",
+                    "value": 0.54
+                },
+                {
+                    "name": "NO2",
+                    "value": 51.74
+                },
+                {
+                    "name": "O3",
+                    "value": 40.73
+                }
+            ],
+            "cvs": 10,
+            "vsr": 2.8099999999999996
+        },
+        {
+            "id": [
+                {
+                    "name": "PM1",
+                    "value": 7.57
+                },
+                {
+                    "name": "PM25",
+                    "value": 12.03
+                },
+                {
+                    "name": "PM10",
+                    "value": 16.81
+                },
+                {
+                    "name": "PRESSURE",
+                    "value": 1020.18
+                },
+                {
+                    "name": "HUMIDITY",
+                    "value": 83.74
+                },
+                {
+                    "name": "TEMPERATURE",
+                    "value": 0.13
+                },
+                {
+                    "name": "NO2",
+                    "value": 71.13
+                },
+                {
+                    "name": "O3",
+                    "value": 31.6
+                }
+            ],
+            "cvs": 11,
+            "vsr": 3.2
+        },
+        {
+            "id": [
+                {
+                    "name": "PM1",
+                    "value": 5.66
+                },
+                {
+                    "name": "PM25",
+                    "value": 8.9
+                },
+                {
+                    "name": "PM10",
+                    "value": 12.85
+                },
+                {
+                    "name": "PRESSURE",
+                    "value": 1019.14
+                },
+                {
+                    "name": "HUMIDITY",
+                    "value": 84.86
+                },
+                {
+                    "name": "TEMPERATURE",
+                    "value": 0.48
+                },
+                {
+                    "name": "NO2",
+                    "value": 65.14
+                },
+                {
+                    "name": "O3",
+                    "value": 35.02
+                }
+            ],
+            "cvs": 10,
+            "vsr": 3.2
+        },
+        {
+            "id": [
+                {
+                    "name": "PM1",
+                    "value": 5.35
+                },
+                {
+                    "name": "PM25",
+                    "value": 8.54
+                },
+                {
+                    "name": "PM10",
+                    "value": 14.75
+                },
+                {
+                    "name": "PRESSURE",
+                    "value": 1018.65
+                },
+                {
+                    "name": "HUMIDITY",
+                    "value": 84.97
+                },
+                {
+                    "name": "TEMPERATURE",
+                    "value": 0.67
+                },
+                {
+                    "name": "NO2",
+                    "value": 52.25
+                },
+                {
+                    "name": "O3",
+                    "value": 59.74
+                }
+            ],
+            "cvs": 10,
+            "vsr": 2.8099999999999996
+        }
+    ],
+
+    "date": "2021-03-25T06:42:23.556Z",
+ 
+}
